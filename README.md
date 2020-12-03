@@ -27,6 +27,9 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=F0DB4F)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&color=green)
+![](https://img.shields.io/badge/Code-Mongodb-informational?style=flat&logo=mongodb&color=green)
+![](https://img.shields.io/badge/Code-postgresql-informational?style=flat&logo=postgresql&color=blue&logoColor=blue)
+![](https://img.shields.io/badge/Code-mysql-informational?style=flat&logo=mysql&color=blue&logoColor=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=red)
 <br/><br/>
 
