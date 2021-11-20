@@ -18,7 +18,7 @@
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
 
-<h4>Check out <a href="https://sheldon-portfolio.netlify.app/" target="_blank">MY PORTFOLIO</a></h4>
+<h4>Check out <a href="https://sheldonwelinga.netlify.app/" target="_blank">MY PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
 
 ## Technology & Tools
