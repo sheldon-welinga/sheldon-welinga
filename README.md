@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=grey)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=F0DB4F)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&color=green)
 ![](https://img.shields.io/badge/Code-Mongodb-informational?style=flat&logo=mongodb&color=green)
 ![](https://img.shields.io/badge/Code-postgresql-informational?style=flat&logo=postgresql&color=blue&logoColor=blue)
@@ -37,3 +38,4 @@
 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/sheldon-welinga)
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/welinga_sheldon)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin logo" width="34">](https://www.linkedin.com/in/sheldon-welinga-860067149/)
