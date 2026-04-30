@@ -18,7 +18,7 @@ These are some of the top projects on which I have collaborated on in the past
 
 - [First Resonance](https://www.firstresonance.io/) — An ION factory OS for managing complex hardware manufacturing platform
 - [Nomi Health](https://nomihealth.com/) — A health care delivery platform
-- [Rebill](https://www.rebill.to/) — A payment gateway platform
+- [Rebill](https://www.rebill.com/) — A payment gateway platform
 - [Wonderverse](https://www.wonderverse.xyz/) — A Web3 management platform
 - [JunoVet](https://www.junovet.com/) — An online vet clinic platform
 - [Instadriver](https://instadriver.co/) — A driver-employer SaaS platform
